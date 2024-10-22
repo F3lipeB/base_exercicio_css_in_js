@@ -23,6 +23,8 @@ const Form = styled.form`
   div {
     position: relative;
     color: ${(props) => props.theme.corHero};
+    font-family: Gloock, serif;
+    font-size: 28px;
   }
 
   @media (max-width: 768px) {
